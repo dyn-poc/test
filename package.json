@@ -1,6 +1,6 @@
 {
   "name": "@wcd/dinavinter.plainjs-lmsnry0w",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "serve": "npx wcd-cli@latest serve wD0PyXIaMmhgDzVV3xin --open"
   }
